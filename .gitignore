@@ -144,3 +144,5 @@ __pycache__/
 backend/venv/
 backend/dataset/
 backend/plots_and_data/
+backend/mon_modele.h5
+

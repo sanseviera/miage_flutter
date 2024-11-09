@@ -4,6 +4,7 @@
 1. créer l'environnement ```python -m venv venv```
 1. connection à l'environnement virtuel : ```source venv/bin/activate``` (mac os) ou ```venv\Scripts\activate`` (windows)
 1. ```pip install -r requirements.txt```
+1. Ajouter le ```mon_modele.h5``` qui a était envoyé par mail dans backend
 1. Lancer les commandes suivante :
     * ```fastapi dev main_api_rest.py```  
 
